@@ -13,7 +13,7 @@ SIMPLE INVENTORY MANAGEMENT APP
   ![1login](https://github.com/user-attachments/assets/5f9df9cb-1fcf-445f-93e2-61a4527770c8)
 
 ---------------------------------------------------
-#2 MEDICINE
+#2 MEDICINE\n
   shows available tablets in inventory
   ![2loginSuccess](https://github.com/user-attachments/assets/08e9b688-fc82-417e-9f76-cd35abafde5b)
 
